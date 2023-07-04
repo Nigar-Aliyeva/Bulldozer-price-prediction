@@ -1,8 +1,9 @@
 
-<div>
-  <h1 align="center">
+<div align="center">
+  <h1 >
     🚜 Bulldozer price prediction
   </h1>
+  Would you like to estimate price of your bulldozer?
 </div>
 
 # 💠 Definition
