@@ -15,6 +15,3 @@ The original data is uploaded from [Kaggle.com](https://www.kaggle.com/competiti
 Furthermore, the feature importance has been tested as well.
 
 ![image](https://github.com/nika-va/Bulldozer-price-prediction/assets/110852167/9cc92faa-696e-4ca5-b09d-81112fa885d1)
-
-## 💠 Contributions
-I welcome and encourage contributions of any kind to the project from individuals like you! 😊
